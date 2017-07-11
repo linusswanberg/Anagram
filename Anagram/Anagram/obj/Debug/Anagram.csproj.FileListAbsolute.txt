@@ -1,0 +1,6 @@
+C:\Development\Anagram\Anagram\Anagram\bin\Debug\Anagram.exe.config
+C:\Development\Anagram\Anagram\Anagram\bin\Debug\Anagram.exe
+C:\Development\Anagram\Anagram\Anagram\bin\Debug\Anagram.pdb
+C:\Development\Anagram\Anagram\Anagram\obj\Debug\Anagram.csprojResolveAssemblyReference.cache
+C:\Development\Anagram\Anagram\Anagram\obj\Debug\Anagram.exe
+C:\Development\Anagram\Anagram\Anagram\obj\Debug\Anagram.pdb
